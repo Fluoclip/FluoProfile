@@ -1,5 +1,4 @@
 # 💫 About Me:
-Web portal for Employees <br>
 
 
 ## 🌐 Socials:
